@@ -1,0 +1,6 @@
+{
+  "name": "AlgoPrep AI - CS Interview & C++ Practice Platform",
+  "description": "Comprehensive AI-powered interview preparation suite for computer science students: beginner C++ coding practice, project-based technical questions, STAR behavioral HR drills, and real-time AI mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
